@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Josh Martin - Full-Stack Developer
+joshuah.m.martin@gmail.com | (832) 758-4471 | Chantilly, VA | linkedin.com/in/joshuahmartin
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+CAREER PROFILE 
 
-## Available Scripts
+Technically adept and detail-oriented developer with a passion for building scalable, high-quality applications. Skilled at translating complex problems into effective, mission-aligned solutions through close collaboration with clients, stakeholders, and cross-functional teams. Driven by continuous learning and the belief that great code serves both purpose and people.
 
-In the project directory, you can run:
+WORK EXPERIENCE  
 
-### `npm start`
+Software Engineer | Visible Body (acquired by Cengage Group in 2025)	11/2021 – Present
+Supported the development of a full-stack Learning Management System (LMS) used by over 1,000 universities, using Ruby on Rails, JavaScript, and CSS
+Updated app stack to Ruby 3.4.2 and Rails 8.0.2
+Reduced AWS RDS CPU usage from 100% to ~8% by optimizing inefficient database queries in Rails
+Overhauled the LMS student experience for accessibility compliance, following ITI VPAT standards
+Researched and documented actionable accessibility testing criteria aligned with VPAT requirements
+Implemented LTI Advantage IMS global standards including Deep Linking and Assignment & Grade Services
+Integrated with Canvas’s LMS using the LTI 1.1 API to establish a seamless platform relationship
+Wrote internal documentation on Google Chrome’s third-party cookie phaseout and its impact on authentication
+Restructured CanCanCan permissions to support a fully customizable admin control system
+Maintained codebase stability through comprehensive unit and integration tests using Selenium and Python
+Designed and developed a responsive home landing page and contributed to the deep linking page
+Authored and implemented SOC 2 security compliance policies, contributing to SOC 2 Type I certification
+Upgraded Jenkins and associated plugins for a new MacStadium build machine, improving CI/CD stability and speed
+Improved internal dashboard security and usability by adding Google account authentication and domain management via AWS Route 53
+Integrated EZProxy for internal tool access control, improving permission management and domain-level authentication
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Cloud Engineer | Visible Body	12/2020 – 11/2021
+Built a CI/CD pipeline for 20+ company projects using Jenkins, AWS, and Bitbucket
+Diagnosed and resolved infrastructure issues with AWS EC2 instances
+Created and deployed an AMI to support Ruby and Rails updates for Courseware development
+Developed internal tools in PHP to simplify the presentation of complex datasets
+Maintained Salesforce platform including reports, validation rules, and Apex code
+Automated sales data uploads to Salesforce via Python scripting
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Technical Customer Support Specialist | Visible Body	07/2020 – 12/2020
+Resolved 30+ daily inbound support requests, troubleshooting technical issues using internal tools and systems
 
-### `npm test`
+EDUCATION
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Software Engineering Immersive Fellow | General Assembly 	02/2019
+Bachelor of Arts in History, Minor in Literature | University of Houston Clear Lake	05/2017
